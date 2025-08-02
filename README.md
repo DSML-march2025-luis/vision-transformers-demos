@@ -36,7 +36,7 @@ Key ideas:
 
 ## Object Detection
 
-- Code: 
+- Code: [object_detection/object_detection_demo.ipynb](object_detection/object_detection_demo.ipynb)
 - Colab:
 
 
