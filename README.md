@@ -11,23 +11,31 @@ Key ideas:
 
 <br>
 
+
 ## How it works
 
 - Code ➜
+
 - Colab ➜
 
 <br>
+
 
 ## Image Classification
 
-
 - Code ➜
+
 - Colab ➜
 
 <br>
 
+
 ## Object Detection
 
-- Code ➜ [object_detection/object_detection_demo.ipynb](object_detection/object_detection_demo.ipynb)
-- Colab ➜
+- Initial template for codealong ➜ [https://colab.research.google.com/drive/13RG-DLU7RT-uHvP0Zw2EAh8jxfqlzgii](https://colab.research.google.com/drive/13RG-DLU7RT-uHvP0Zw2EAh8jxfqlzgii)
+
+- Final Code (GitHub) ➜ [object_detection/object_detection_demo.ipynb](object_detection/object_detection_demo.ipynb)
+
+- Final Code (Colab) ➜ [https://colab.research.google.com/drive/1tC1-xvT87-naDI8Mb_kNtdm7J1deiRJO](https://colab.research.google.com/drive/1tC1-xvT87-naDI8Mb_kNtdm7J1deiRJO)
+
 
