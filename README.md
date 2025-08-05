@@ -23,7 +23,7 @@ Key ideas:
 
 ## Image Classification
 
-- Code ➜ image_classification/ViT_Image_Classification_CodeAlong.ipynb
+- Code ➜ [image_classification/ViT_Image_Classification_CodeAlong.ipynb](https://github.com/DSML-march2025-luis/vision-transformers-demos/blob/main/image_classification/ViT_Image_Classification_CodeAlong.ipynb)
 
 - Colab ➜  https://colab.research.google.com/drive/1lY-8HjXVrAoegGcinO-QJyxYfRfXJALc#scrollTo=1HYlwi9gDdS1
 
