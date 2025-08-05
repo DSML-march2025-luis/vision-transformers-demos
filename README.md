@@ -23,7 +23,7 @@ Key ideas:
 
 ## Image Classification
 
-- Code ➜
+- Code ➜ image_classification/ViT_Image_Classification_CodeAlong.ipynb
 
 - Colab ➜  https://colab.research.google.com/drive/1lY-8HjXVrAoegGcinO-QJyxYfRfXJALc#scrollTo=1HYlwi9gDdS1
 
