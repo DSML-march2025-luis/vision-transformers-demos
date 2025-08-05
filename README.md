@@ -25,7 +25,7 @@ Key ideas:
 
 - Code ➜
 
-- Colab ➜
+- Colab ➜  https://colab.research.google.com/drive/1lY-8HjXVrAoegGcinO-QJyxYfRfXJALc#scrollTo=1HYlwi9gDdS1
 
 <br>
 
