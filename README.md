@@ -12,14 +12,6 @@ Key ideas:
 <br>
 
 
-## How it works
-
-- Code ➜
-
-- Colab ➜
-
-<br>
-
 
 ## Image Classification
 
